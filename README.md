@@ -15,7 +15,7 @@ This project is a Text-Based Adventure Game where the user ***makes*** choices t
 - [X] create rep
 - [ ] make job
 - [ ] be happy
-- [ ] have money
+- [X] have no money
 
 ## We also make table :smile:
 
